@@ -1,0 +1,6 @@
+.list-container {
+  height: 50vh;
+  border: 1px dashed red;
+  margin: 30px;
+  padding: 20px 35px;
+}
